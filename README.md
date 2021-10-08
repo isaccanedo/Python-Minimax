@@ -1,0 +1,2 @@
+# Python-Minimax
+:rooster: Minimax ajuda a atingir a pontuação máxima em um jogo, verificando a profundidade de todos os movimentos possíveis e a profundidade atual na árvore do jogo. nodeIndex é o índice do nó atual em scores []. se o movimento é do maximizador retorna verdadeiro senão as folhas falsas da árvore do jogo são armazenadas nas pontuações [] a altura é a altura máxima da árvore do jogo
